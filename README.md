@@ -1,4 +1,13 @@
+<h1 align="center">Hi, I'm MD. Rakib</h1>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
+- 🔭 I’m currently working on a full-stack Ecommerce Dashboard project using Next.js, Node.js, Express, and MongoDB. [Ecommerce dashboard](https://github.com/MRP-rakib/dashboard.git)
+
+- 🌱 I’m currently learning advanced Backend development and building full-stack applications. **Node.js, Express.js, React, Next.js, Python, Django, MongoDB, MySQL, PostgreSQL.**
+
+- 👨‍💻 All of my projects are available at [https://rakib-portfolio-260.vercel.app/](https://rakib-portfolio-260.vercel.app/)
+
+- 📫 How to reach me **rakib260.hossain@gmail.com**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakib.hossain.594448) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakib_hossain_260) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrakib260) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RH_Rakib_260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakib260.hossain@gmail.com) 
 

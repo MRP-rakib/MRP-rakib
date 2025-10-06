@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm MD. Rakib</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on a full-stack Ecommerce Dashboard project using Next.js, Node.js, Express, and MongoDB. [Ecommerce dashboard](https://github.com/MRP-rakib/dashboard.git)
+- 🔭 I’m currently working on a full-stack Ecommerce Dashboard project using Next.js, Node.js, Express, and MongoDB. [Ecommerce dashboard]([https://github.com/MRP-rakib/dashboard.git](https://github.com/MRP-rakib/dashboard.git))
 
 - 🌱 I’m currently learning advanced Backend development and building full-stack applications. **Node.js, Express.js, React, Next.js, Python, Django, MongoDB, MySQL, PostgreSQL.**
 

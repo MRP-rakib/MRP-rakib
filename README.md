@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning advanced Backend development and building full-stack applications. **Node.js, Express.js, React, Next.js, Python, Django, MongoDB, MySQL, PostgreSQL.**
 
-- 👨‍💻 All of my projects are available at [https://rakib-portfolio-260.vercel.app/](https://rakib-portfolio-260.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rakib-portfolio-260.vercel.app/](https://portfolio-md-rakib.vercel.app)
 
 - 📫 How to reach me **rakib260.hossain@gmail.com**
 ## 🌐 Socials:

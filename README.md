@@ -1,165 +1,179 @@
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a0533,100:0d0221&height=220&section=header&text=MD.%20Rakib&fontSize=75&fontColor=e9d5ff&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20⚡&descAlignY=68&descSize=20&descColor=a855f7&animation=blinking"/>
+
 <div align="center">
 
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MD.%20Rakib&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=a78bfa&animation=fadeIn"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;React+%26+Next.js+Enthusiast;Node.js+%2B+Express+Backend+Dev;MongoDB+%26+REST+API+Architect;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+Building+Full+Stack+Web+Applications;⚛️+React+%26+Next.js+Frontend+Specialist;🟢+Node.js+%2B+Express+Backend+Engineer;🍃+MongoDB+Database+Architect;🎨+Tailwind+CSS+UI+Craftsman;🔄+Redux+State+Management+Expert" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=mdrakib&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/mdrakib?color=7c3aed&style=flat-square&logo=github&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/mdrakib?color=7c3aed&style=flat-square&logo=github&label=STARS)
+<!-- BADGES ROW -->
+<a href="https://github.com/MRP-rakib">
+  <img src="https://komarev.com/ghpvc/?username=MRP-rakib&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+</a>
+<img src="https://img.shields.io/github/followers/MRP-rakib?style=for-the-badge&color=7c3aed&logo=github&label=FOLLOWERS&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/MRP-rakib?style=for-the-badge&color=7c3aed&logo=github&label=TOTAL+STARS&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-00D26A?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-```javascript
-const Rakib = {
-  name:        "MD. Rakib",
-  role:        "Full Stack Developer",
-  location:    "Bangladesh 🇧🇩",
-  focus:       ["Web Apps", "REST APIs", "UI/UX", "Scalable Systems"],
-  currently:   "Building production-grade full stack applications",
-  philosophy:  "Clean code. Real solutions. Continuous growth.",
-  funFact:     "I debug with console.log and I'm proud of it 😄",
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38"> &nbsp; About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```typescript
+const developer = {
+  name:      "MD. Rakib",
+  username:  "MRP-rakib",
+  role:      "Full Stack Developer",
+  location:  "Bangladesh 🇧🇩",
+
+  stack: {
+    frontend:  ["React", "Next.js", "Tailwind CSS"],
+    backend:   ["Node.js", "Express.js"],
+    database:  ["MongoDB", "Mongoose"],
+    state:     ["Redux", "RTK Query"],
+    language:  ["JavaScript (ES6+)"],
+  },
+
+  currentFocus: "Scalable MERN Stack Apps",
+  openToWork:   true,
+  funFact:      "I turn coffee ☕ into code 💻",
 };
 ```
 
----
+</td>
+<td width="45%" align="center">
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-### ⚡ Frontend
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
-### 🔧 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
-<!-- Skills Overview -->
-## 📊 Skill Overview
-
-| Area | Technologies | Level |
-|------|-------------|-------|
-| **Frontend** | React, Next.js, Tailwind CSS | ███████████░ 92% |
-| **State Management** | Redux, Context API | ██████████░░ 85% |
-| **Backend** | Node.js, Express.js | ██████████░░ 88% |
-| **Database** | MongoDB, Mongoose | █████████░░░ 80% |
-| **JavaScript** | ES6+, Async/Await | ████████████ 95% |
-| **API Design** | REST APIs, JSON | ██████████░░ 87% |
-
----
-
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> &nbsp; Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdrakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakib&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+### 🖥️ Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css&theme=dark"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+</p>
+
+### 🔄 State & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=redux&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp; GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRP-rakib&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=a855f7&text_color=e9d5ff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MRP-rakib&theme=midnight-purple&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=9ca3af" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRP-rakib&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=e9d5ff&langs_count=8" />
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRP-rakib&bg_color=0d0221&color=a855f7&line=7c3aed&point=e9d5ff&hide_border=true&area=true&area_color=4c1d95&custom_title=MRP-rakib's%20Contribution%20Graph"/>
+</div>
+
+---
+
+
+## 🚀 What I Build
+
+<div align="center">
+
+| 🔹 Project Type | 🛠 Stack Used |
+|:---|:---|
+| **Full Stack Web Apps** | React + Next.js + Node.js + MongoDB |
+| **REST APIs** | Express.js + JWT Auth + Mongoose ODM |
+| **Responsive UIs** | Tailwind CSS + Mobile-First Design |
+| **State-Driven SPAs** | Redux Toolkit + RTK Query |
+| **SSR / SSG Apps** | Next.js + API Routes + Dynamic Routing |
+| **Auth Systems** | JWT + bcrypt + Protected Middleware |
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdrakib260)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge)](https://portfolio-md-rakib.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakib260.hossain@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRP-rakib)
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+### 💬 Dev Quote
 
-</div>
-
----
-
-<!-- What I Build -->
-## 🚀 What I Build
-
-```
-🔹 Full Stack Web Applications    → React + Next.js + Node.js + MongoDB
-🔹 RESTful APIs                   → Express.js + JWT + Mongoose
-🔹 Responsive UIs                 → Tailwind CSS + Mobile First Design
-🔹 State-Driven SPAs              → Redux Toolkit + RTK Query
-🔹 Server-Side Rendered Apps      → Next.js + API Routes + SSR/SSG
-```
-
----
-
-<!-- Activity Graph -->
-## 🌐 Contribution Activity
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrakib&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true&area_color=a78bfa"/>
-</div>
-
----
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdrakib&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
-<!-- Connect -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrakib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://mdrakib.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrakib@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mdrakib)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdrakib)
-
-</div>
-
----
-
-<!-- Quote -->
-<div align="center">
-
-### 💬 Dev Quote of the Day
-  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-<!-- Footer -->
+<!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-**⭐ Star my repos if you find them useful! Let's build something great together.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:4c1d95&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos&fontSize=18&fontColor=e9d5ff&fontAlignY=65&animation=twinkling"/>
 
 </div>

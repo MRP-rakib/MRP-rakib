@@ -2,10 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a0533,100:0d0221&height=220&section=header&text=MD.%20Rakib&fontSize=75&fontColor=e9d5ff&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20⚡&descAlignY=68&descSize=20&descColor=a855f7&animation=blinking"/>
 
 <div align="center">
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+Building+Full+Stack+Web+Applications;⚛️+React+%26+Next.js+Frontend+Specialist;🟢+Node.js+%2B+Express+Backend+Engineer;🍃+MongoDB+Database+Architect;🎨+Tailwind+CSS+UI+Craftsman;🔄+Redux+State+Management+Expert" alt="Typing SVG" />
-
+  
 <br/>
 
 <!-- BADGES ROW -->
@@ -101,7 +98,6 @@ const developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRP-rakib&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=a855f7&text_color=e9d5ff&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MRP-rakib&theme=midnight-purple&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=9ca3af" />
 
 <br/><br/>
